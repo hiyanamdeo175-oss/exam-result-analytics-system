@@ -1,0 +1,15 @@
+[
+  {"name": "result_id",     "type": "STRING",    "mode": "REQUIRED", "description": "Firestore document id"},
+  {"name": "exam_id",       "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "class_id",      "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "student_id",    "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "subject_code",  "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "subject_name",  "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "marks",         "type": "FLOAT",     "mode": "REQUIRED"},
+  {"name": "max_marks",     "type": "FLOAT",     "mode": "REQUIRED"},
+  {"name": "percentage",    "type": "FLOAT",     "mode": "REQUIRED"},
+  {"name": "grade",         "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "result_status", "type": "STRING",    "mode": "REQUIRED"},
+  {"name": "submitted_at",  "type": "TIMESTAMP", "mode": "NULLABLE"},
+  {"name": "processed_at",  "type": "TIMESTAMP", "mode": "REQUIRED"}
+]

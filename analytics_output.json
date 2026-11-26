@@ -1,0 +1,500 @@
+{
+ "n_records": 600,
+ "n_students": 120,
+ "eval_ms": 2.1,
+ "overall_avg": 65.05,
+ "overall_record_pass": 95.17,
+ "subj": [
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "students": 120,
+   "avg_marks": 60.51,
+   "avg_percentage": 60.51,
+   "highest": 96.0,
+   "lowest": 27.0,
+   "passed": 112.0,
+   "pass_percentage": 93.33
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "students": 120,
+   "avg_marks": 66.04,
+   "avg_percentage": 66.04,
+   "highest": 100.0,
+   "lowest": 31.0,
+   "passed": 115.0,
+   "pass_percentage": 95.83
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "students": 120,
+   "avg_marks": 62.48,
+   "avg_percentage": 62.48,
+   "highest": 100.0,
+   "lowest": 20.0,
+   "passed": 113.0,
+   "pass_percentage": 94.17
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "students": 120,
+   "avg_marks": 71.13,
+   "avg_percentage": 71.13,
+   "highest": 100.0,
+   "lowest": 31.0,
+   "passed": 116.0,
+   "pass_percentage": 96.67
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "students": 120,
+   "avg_marks": 65.08,
+   "avg_percentage": 65.08,
+   "highest": 96.0,
+   "lowest": 29.0,
+   "passed": 115.0,
+   "pass_percentage": 95.83
+  }
+ ],
+ "cls": [
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-A",
+   "students": 60,
+   "class_avg_percentage": 69.78,
+   "passed_all": 57.0,
+   "overall_pass_percentage": 95.0,
+   "needing_support": 3.0
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "students": 60,
+   "class_avg_percentage": 60.31,
+   "passed_all": 48.0,
+   "overall_pass_percentage": 80.0,
+   "needing_support": 13.0
+  }
+ ],
+ "support": [
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S074",
+   "subjects_taken": 5,
+   "avg_percentage": 30.6,
+   "subjects_failed": 4.0,
+   "lowest_percentage": 20.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-A",
+   "student_id": "S019",
+   "subjects_taken": 5,
+   "avg_percentage": 38.0,
+   "subjects_failed": 4.0,
+   "lowest_percentage": 32.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S080",
+   "subjects_taken": 5,
+   "avg_percentage": 38.0,
+   "subjects_failed": 3.0,
+   "lowest_percentage": 29.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S117",
+   "subjects_taken": 5,
+   "avg_percentage": 38.8,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 27.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S068",
+   "subjects_taken": 5,
+   "avg_percentage": 39.6,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 31.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S105",
+   "subjects_taken": 5,
+   "avg_percentage": 41.0,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 35.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S102",
+   "subjects_taken": 5,
+   "avg_percentage": 41.2,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 34.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S088",
+   "subjects_taken": 5,
+   "avg_percentage": 45.0,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 34.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-A",
+   "student_id": "S038",
+   "subjects_taken": 5,
+   "avg_percentage": 46.0,
+   "subjects_failed": 2.0,
+   "lowest_percentage": 37.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S082",
+   "subjects_taken": 5,
+   "avg_percentage": 45.2,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 36.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S067",
+   "subjects_taken": 5,
+   "avg_percentage": 46.2,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 39.0,
+   "reason": "Failed subject(s) + low average"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S097",
+   "subjects_taken": 5,
+   "avg_percentage": 50.2,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 39.0,
+   "reason": "Failed subject(s)"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-A",
+   "student_id": "S041",
+   "subjects_taken": 5,
+   "avg_percentage": 52.6,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 36.0,
+   "reason": "Failed subject(s)"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S096",
+   "subjects_taken": 5,
+   "avg_percentage": 55.4,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 37.0,
+   "reason": "Failed subject(s)"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S090",
+   "subjects_taken": 5,
+   "avg_percentage": 56.0,
+   "subjects_failed": 1.0,
+   "lowest_percentage": 39.0,
+   "reason": "Failed subject(s)"
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "class_id": "ECE-B",
+   "student_id": "S103",
+   "subjects_taken": 5,
+   "avg_percentage": 46.6,
+   "subjects_failed": 0.0,
+   "lowest_percentage": 42.0,
+   "reason": "Low average (below 50%)"
+  }
+ ],
+ "grades": [
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "B",
+   "students": 30
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "B+",
+   "students": 28
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "B+",
+   "students": 36
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "B+",
+   "students": 32
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "B",
+   "students": 19
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "B+",
+   "students": 32
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "A",
+   "students": 34
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "A",
+   "students": 24
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "A",
+   "students": 34
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "A",
+   "students": 25
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "A",
+   "students": 17
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "A+",
+   "students": 20
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "A+",
+   "students": 17
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "B",
+   "students": 27
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "A+",
+   "students": 10
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "B+",
+   "students": 37
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "B",
+   "students": 25
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "C",
+   "students": 20
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "O",
+   "students": 12
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "B",
+   "students": 13
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "A+",
+   "students": 9
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "O",
+   "students": 7
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "F",
+   "students": 8
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "C",
+   "students": 11
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "F",
+   "students": 7
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "F",
+   "students": 4
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "F",
+   "students": 5
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "O",
+   "students": 3
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE301",
+   "subject_name": "Digital Signal Processing",
+   "grade": "O",
+   "students": 4
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "A+",
+   "students": 9
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "O",
+   "students": 4
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE304",
+   "subject_name": "Data Structures",
+   "grade": "C",
+   "students": 5
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE305",
+   "subject_name": "Engineering Mathematics",
+   "grade": "C",
+   "students": 13
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE303",
+   "subject_name": "Control Systems",
+   "grade": "C",
+   "students": 14
+  },
+  {
+   "exam_id": "MID-SEM-2026",
+   "subject_code": "ECE302",
+   "subject_name": "Microprocessors",
+   "grade": "F",
+   "students": 5
+  }
+ ],
+ "fail_records": 29,
+ "students_passed_all": 105
+}
